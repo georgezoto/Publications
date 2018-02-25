@@ -1,4 +1,4 @@
-# Data Analytics and Visualizations - A personal journey by George Zoto
+# Data Analytics and Visualizations - A personal journey  
 
 A companion repository for my Medium article avaialble at:
 
@@ -6,5 +6,7 @@ This is personal journey in Data Analytics and Visualizations and twelve most im
 
 I. Cleaning and Data Organization   
 II. Price  
-III. Market Segment, Product Reviews and Presence Online   
+III. Market Segment, Product Reviews and Presence Online  
+IV. 0 to 60  
+ 
    
