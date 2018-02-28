@@ -9,5 +9,5 @@ II. Price
 III. Market Segment, Product Reviews and Presence Online  
 IV. 0 to 60  
 V. Interactivity, APIs and Accountability  
- 
-   
+VI. Open-source vs Proprietary, Release Cycle, Support and Community   
+  
