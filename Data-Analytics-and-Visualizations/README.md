@@ -11,4 +11,5 @@ IV. 0 to 60
 V. Interactivity, APIs and Accountability  
 VI. Open-source vs Proprietary, Release Cycle, Support and Community   
 VII. Data Collection and Data Resiliency  
+VIII. Data Storage and Data Wrangling  
   
