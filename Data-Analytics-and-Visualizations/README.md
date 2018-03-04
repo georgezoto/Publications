@@ -12,4 +12,5 @@ V. Interactivity, APIs and Accountability
 VI. Open-source vs Proprietary, Release Cycle, Support and Community   
 VII. Data Collection and Data Resiliency  
 VIII. Data Storage and Data Wrangling  
+IX. Data Analysis, Enrichment and Join  
   
