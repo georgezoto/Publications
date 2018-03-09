@@ -13,4 +13,6 @@ VI. Open-source vs Proprietary, Release Cycle, Support and Community
 VII. Data Collection and Data Resiliency  
 VIII. Data Storage and Data Wrangling  
 IX. Data Analysis, Enrichment and Join  
+X. Data Visualization and Storytelling  
+ 
   
