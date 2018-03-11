@@ -15,4 +15,5 @@ VIII. Data Storage and Data Wrangling
 IX. Data Analysis, Enrichment and Join  
 X. Data Visualization and Storytelling  
 XI. Data Sharing  
+XII. Security and Data Governance  
   
