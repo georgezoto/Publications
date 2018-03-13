@@ -1,6 +1,6 @@
 # Data Analytics and Visualizations - A personal journey  
 
-A companion repository for my Medium article avaialble at:
+A companion repository for my Medium article avaialble at: https://medium.com/datajournos/data-analytics-and-visualizations-a-personal-journey-b1a1318e24db
 
 This is personal journey in Data Analytics and Visualizations and twelve most important criteria I look at when evaluating a modern Business Intelligence tool:
 
