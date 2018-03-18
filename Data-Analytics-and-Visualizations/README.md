@@ -2,18 +2,6 @@
 
 A companion repository for my Medium article avaialble at: https://medium.com/datajournos/data-analytics-and-visualizations-a-personal-journey-b1a1318e24db
 
-This is personal journey in Data Analytics and Visualizations and twelve most important criteria I look at when evaluating a modern Business Intelligence tool:
+![alt text](images/Data-Analytics-and-Visualizations.png)
 
-I. Cleaning and Data Organization   
-II. Price  
-III. Market Segment, Product Reviews and Presence Online  
-IV. 0 to 60  
-V. Interactivity, APIs and Accountability  
-VI. Open-source vs Proprietary, Release Cycle, Support and Community   
-VII. Data Collection and Data Resiliency  
-VIII. Data Storage and Data Wrangling  
-IX. Data Analysis, Enrichment and Join  
-X. Data Visualization and Storytelling  
-XI. Data Sharing  
-XII. Security and Data Governance  
-  
+Over time we have seen several Business Intelligence tools emerge, some of them promising to take our analysis to the next level, while others assist us with developing stunning visualizations that tell a compelling story. Discovering such stories behind massive datasets is my day to day job at a local non-profit that is dedicated to end childhood hunger. I thought I would share my journey and comparison criteria with you when evaluating a modern Business Intelligence tool. Please keep in mind that this analysis is completely subjective and based on my previous experience. Before we dive right in, let me give you some more context on my background and how I approached the task of evaluating several such tools, not so long ago.  
