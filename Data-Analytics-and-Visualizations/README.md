@@ -26,5 +26,11 @@ Over time we have seen several Business Intelligence tools emerge, some of them 
 **My experience in the field of data analytics and visualizations**  
 Education wise, I have a B.S. in Computer Engineering and Telecommunications and a M.S in Electrical Engineering. Before graduating back in 2012, my favorite and awesome Business Intelligence tool was Matlab. For many of you out there who do not know Matlab, think of it as a scientific workbench.
 
+Matlab requires you to learn its syntax, but I really like the fact that “out of the box” you could:
+1. Import your own data.
+2. Perform analysis on it.
+3. Visualize your findings and share them with the world, or in most cases your colleagues or your class professor.
 
-  
+If you think that sounds great, it gets better. The tool allows you to share your work with others or import their work in your environment as well as access literally hundreds of packages and tutorials from math and physics to control systems and biology. It’s not a coincidence that it is still the most popular tool in academia, at least in the STEM field.
+
+
