@@ -46,4 +46,9 @@ My team and I also wrote such tools mainly in Python and Java and utilizing open
 
 By the end of this beautiful journey in my previous company, new players had made their appearance such as Splunk, Hadoop and its rich ecosystem around Big Data, AWS, Tableau, Artificial Intelligence, IBM Watson and this new platform called Elasticsearch. Educating myself on many such platforms, with the help of Coursera, Udemy and Udacity and attending several meetups in the area, I started exploring the capabilities that such tools and platforms had to offer. I wanted to explore their kept and unkept promises as well as the teams behind them, their vision for their products and the communities around them. The next part of this article will hopefully shed some light in what do I look for in a modern Business Intelligence tool, as well as what did I have in mind while I was building my own custom tools.
 
+**What do I look for in a modern Business Intelligence Tool**  
+A research article published in Forbes back in 2016 found that 80% of the time data scientists spend is actually spent in collecting, cleaning and organizing our datasets. This is almost the equivalent of working on a project for five days, just to get the chance to analyze it and draw your conclusion on the weekend. I am not sure about you, but that seems like a lot of time.
+
+Here are the twelve most important criteria I consider when evaluating a modern Business Intelligence tool. Criteria two to six orbit around the quality of the final product while criteria one and seven to twelve, focus on the technical side of a tool.
+
 
