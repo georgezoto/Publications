@@ -51,4 +51,9 @@ A research article published in Forbes back in 2016 found that 80% of the time d
 
 Here are the twelve most important criteria I consider when evaluating a modern Business Intelligence tool. Criteria two to six orbit around the quality of the final product while criteria one and seven to twelve, focus on the technical side of a tool.
 
+**I. Cleaning and Data Organization**  
+An ideal tool should be able to recognize a structured dataset in a well defined format. A comma separated values (csv) format or web access logs are such good examples. In case where the underlying data is semi-structured and follows its own format, an option to parse it and extract only the relevant fields is a must-have feature for a modern tool. Finally, in the case of raw unstructured data or data in non-machine friendly format (pdf files for example, heavily nested headers and rows in a table or just raw numbers and text), there isn’t much any current tool can do. I see some great interest in using machine learning in discovering patterns and underlying data types in such cases, but from my experience, this is mostly a work in progress or a research topic thus far.
 
+An important factor here is Data Quality. Tim Berners-Lee, the inventor of the Web and Linked Data initiator, suggested a 5-star deployment scheme for Open Data, where based on format and structure, different datasets are awarded a score based on how accessible and readable they are. Going from one star and progressing to five, a datasource author is not only providing raw data but also structure, non-proprietary open formats and sharable context. In many cases, this data quality can make or break data analysis in modern Business Intelligence tools.
+
+****
