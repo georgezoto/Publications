@@ -61,4 +61,7 @@ Like everything in life, all these great features and hard work come at a cost. 
 1. The cost of the tool taking into account all the features it offers as well as the number of users that can use it over a long period of time. Many tools offer an upfront charge for a license per user or per installation, while others offer a subscription model per user, per month. It is good to think about scalability at this point and try to forecast how this number would change if your organization went from a 10% adoption rate to a 50% rate or later on to a 100% adoption rate.
 2. The cost of having data silos and not being able to integrate all of your organization’s data sources on a common platform that would allow you to look at the bigger picture hiding behind your data. Unfortunately, in today’s world, this is not that uncommon, with each data management solution having its own language or format and not being able to “talk” to one another.
 
+**III. Market Segment, Product Reviews and Online Presence**  
+This is the case for almost every decision we make online. This is why the marketing field will always be a popular one in my opinion. Having great real cases, positive reviews and success stories is imperative for a modern platform. I try my best for my work to speak for itself, so I won’t have to say a word. This is why an instant surprise or impression on the capabilities of a tool is highly desirable.
+
 
