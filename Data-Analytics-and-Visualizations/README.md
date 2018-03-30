@@ -64,4 +64,7 @@ Like everything in life, all these great features and hard work come at a cost. 
 **III. Market Segment, Product Reviews and Online Presence**  
 This is the case for almost every decision we make online. This is why the marketing field will always be a popular one in my opinion. Having great real cases, positive reviews and success stories is imperative for a modern platform. I try my best for my work to speak for itself, so I won’t have to say a word. This is why an instant surprise or impression on the capabilities of a tool is highly desirable.
 
+It is also important to try and figure out where does each platform you are evaluating fit into the bigger picture. Is it geared more towards personal use? Can it handle high volume or scale of data? What about a wide variety of data? How about velocity or speed of data being generated? Can it assist you with validating any of the incoming datasets against others or reducing any noise or bias in your data (veracity of data)? Finally, is this platform production ready, battle proven and used by modern startups or larger companies? Does it allow you to setup your own data engineering and orchestration environment and does it allow you to do any performance tuning based on your specific use cases and scenarios ?
+I guess the other side of the coin here is, do you and your organization really know what you need and therefore what to really look for?
+
 
