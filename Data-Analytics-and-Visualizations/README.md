@@ -75,4 +75,23 @@ Looking at modern Business Intelligence tools over time, I have noticed a moveme
 
 Similar to user interaction, another criterion that is important today is the notion of “APIs as first citizens” or the ability for a modern tool to “speak” the modern machine-friendly language behind an Application Programming Interface. Think of it as the alphabet for a modern tool, without such a feature it cannot communicate or exchange information with any other tool or datasource out there. If you support it natively, a whole new world is open for exploration, as long as security in always kept in mind.
 
+Finally, a criterion that often gets overlooked, is the ability for a modern tool to monitor itself and report back to the user its performance over time during the data collection process, the data analysis process and the data presentation process. All these processes are covered later in detail. Think of it as the analogous of task manager or activity monitor in your computer or smartphone. This feature provides an accountability feature in terms of what is really happening under the hood. Are simple tasks taking too many resources to fulfill or can the tool run under the specifications mentioned upon purchase? With many tools running in a cloud environment, this might not be concern, but as an informed buyer, you should know what you really paid for and how many resources you would need in the future. It also helps your data engineering team in another aspect: scalability. Looking at your tool’s performance for 1 user, 10 datasets and 30 visualizations for example, you can roughly estimate your resources needs, either on-premise or in the cloud, to multiple users, datasets and visualizations.
 
+**VI. Open-source vs Proprietary, Release Cycle, Support and Community**  
+The last criterion related to the quality of a modern Business Intelligence tool has to do with the actual developers behind it, the support team, the sales team and most importantly for me, the community behind a product.
+
+Personally, I feel it really makes a difference if you ask yourself one simple question: where do you feel most comfortable putting your data analytics investments in, behind a community or behind a product?
+
+This is exactly what differentiates an open-source tool versus a proprietary one. In most cases, active open-source products have hundred or thousands of developers behind them, creating new features, fixing existing issues, releasing new versions and so on in a continuous cycle. The beauty of it is that you too can become part of this rich ecosystem. Thanks to discussion forums and GitHub, a modern web-based hosting service for software version control, you can:
+1. Participate in discussions taking place online around any relevant topic.
+2. Open an issue ticket and share with the rest of the community an issue or bug you found in one of the major or minor version of the tool you are using.
+3. Request a new feature or enhancement that is currently lacking from your data engineering pipeline or implementation.
+4. Fork or duplicate the existing master release and develop your own version of the tool or feature that is currently not available or is applicable specifically to your implementation.
+
+Open-source products usually have a plurality of voices and opinions behind them. You can be one of them, shaping the look and feel of a product for a future release. It makes a difference between a lively and active community of thousands of developers versus a specific product meeting a given set of specifications.
+
+Another aspect that is important to me is how often a company behind a tool organizes conferences, informs the community about its upcoming features, invites users from all spectrums of the industry sharing their best practices and applications of a tool in their data engineering pipeline and more. It also makes a big difference if the tool is heavily developed and released at least in annual cycles or ideally in 6-month cycles. This way hot features requested by the community and important bug fixes are addressed in a timely manner.
+
+Finally, getting a sense early on of the level of technical support and sales team support and flexibility on the product is critical to success. Ideally, a great technical support team that does not over-promise any implementation details and is there when you need it the most, as well as a flexible sales team that is not just trying to sell their next product, but is instead actually interested in your use case of the tool, are important criteria that I pay attention to.
+
+ 
