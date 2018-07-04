@@ -114,4 +114,25 @@ It is important to understand that all previous steps and features aim to fuel t
 Given that each data analysis process follows the pattern: Question -> Data wrangling -> Exploration -> Conclusions -> Communication, it is important to realize that the first three to four steps will undergo a continuous loop until a satisfying level of conclusions are reached. In practice, this means that during the data analysis step, the user will most probably have to enrich the underlying data with other datasets or also join them with existing or new datasets on a common key. This need for continuous search of new dataset and integration with existing ones is key to in-depth analysis.
 
 Finally, several Business Intelligence tools offer the capability to perform temporal analysis, location based analysis, keyword based analysis, graph or connection based analysis, statistical analysis, machine learning analysis and more. It is important to understand the opportunities and limitations that each approach and capability offers.
+
+**X. Data Visualization and Storytelling**  
+If the previous step of data analysis was the cake, this step is definitely the frosting and cherry on top of a long process. Several Business Intelligence tools allow the user to select a visualization from a given set of predefined visualizations such as:
+
+1. Line, Area or Bar charts
+2. Pie charts
+3. Data tables, Metrics, Goals and Gauges
+4. Heat maps
+5. Coordinate maps and Region maps
+6. Timeseries
+7. Scatter plots
+8. Tree maps
+9. Word cloud
+10. Custom visualization library
+
+As data scientists, knowing when to apply which type of visualization can make the difference between finding and telling an underlying story versus skipping it completely. As experts mention, data storytelling is a structured approach for communicating data insights, and it involves a combination of three key elements: data, visuals, and narrative. Combining your data with a narrative can explain your users what is really happening in the underlying dataset. When visuals and data are combined, patterns and outliers emerge that would otherwise be lost in a large data table. Also, combining narrative with visuals can engage the user to either investigate further or share findings with a larger audience. Finally, when all the elements of data, visualizations and narrative are combined, you have created a story that can drive decisions and affect change in your environment.
+
+Personally, I have seen that a top-down approach can be an effective mechanism for storytelling. You keep in mind your audience’s existing knowledge, their curiosity and engagement on the subject you are covering as well as the depth and breadth of information your audience can consume. You then start with the highest possible level of explanation based always on aggregated data, narrative and visualizations. Then you slowly start descending your analysis and user attention to a more detailed and highly grained level, trying to keep the audience highly engaged in the meantime. Think of it as a detailed plane landing description from the pilot to your favorite vacation destination. It starts all the way high in the sky, to lower altitude, until you can actually see the mountains, lakes, buildings or the beach and sand at your favorite destination.
+
+Deep knowledge of your data, creative thinking and “out of the box” narrative are necessary ingredients for compelling storytelling. They can reveal insights, influence decisions and drive users to action and engagement.
+
  
