@@ -135,4 +135,10 @@ Personally, I have seen that a top-down approach can be an effective mechanism f
 
 Deep knowledge of your data, creative thinking and “out of the box” narrative are necessary ingredients for compelling storytelling. They can reveal insights, influence decisions and drive users to action and engagement.
 
+**XI. Data Sharing**
+It is finally time to share and communicate your findings and interactive dashboard with the rest of your team, your organization or perhaps the entire world. Modern Business Intelligence tools allow you to export the entire data behind your analysis, or a filtered version of it, in various formats such as csv or pdf files. Some of them also allow you to share your findings with other tools such as AWS products. In many cases, the final product is a URL that can be embedded in an existing website as part of a larger product, campaign or storytelling. Either way, modern tools support a plethora of options.
+
+In the spirit of reciprocity, few tools will actually support access to their underlying datasets, visualizations and dashboards over an API. This way they become themselves datasources for other tools in a similar way that another tool or platform was a datasource for them. Passing on the torch of responsible data sharing is part of larger concept known as data democratization that I will touch upon in the Summary section.  
+
+
  
