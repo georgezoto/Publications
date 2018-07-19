@@ -151,4 +151,14 @@ Data governance is a defined process an organization follows to ensure that high
 
 At a high level, data governance ensures that you and your organization is aware of the data available, where does it physically and digitally live, who has access to it, at what level as well as what policies and processes are in place to ensure overall secure and responsible data access and data sharing. A well defined catalogue of data ownership is important to ensure that only the right users have access to the right data, moving this responsibility from the IT team to the appropriate department within an organization.
 
+**Conclusion and Survey**  
+Building a modern Business Intelligence tool requires a team effort from the actual users to developers behind it. It is also an effort where an entire community supports itself on more than just a single product. Instead, it enables an organic growth of knowledge, lessons learned, common problems and solutions to our need to get answers from data available in our organization and throughout the world. This secure and responsible cycle of information access and sharing, coupled with extremely ease of user interaction develops data democratization, where ideally every person in an organization can pick up a digital bucket and access a larger digital well of knowledge and information. There is a lot of research done on the benefits of this approach and the gain of having a non-techincal user be part of a larger community where data is accessed responsibly. An approach where humans and individuals are at the epicenter of any tool or platform paired with a larger will from within an organization to change and adopt a truly democratized solution, can have a long and impacting effect, both at a local as well as at a global scale.
+
+Modern Business Intelligence tools strive to enable such an impacting effect. They need to balance several requirements, quality related or technical ones, maintaining high user performance and experience with the challenge of scalability and data explosion. From a high level view though, these tools are only a part of a larger effort that an organization generates to convert data to information, insights to stories, answers to questions.
+
+I am curious what your thoughts are on modern Business Intelligence tools. I plan to write another article comparing a few tools that I have built or come across in my day to day data explorations and adventures. If you have a minute, I would love to hear your feedback with a quick survey. It will also shape the tools I plan to cover in my next article: https://georgezoto.typeform.com/to/sJYwTX
+
+Thank you for reading this lengthy article. Many thanks also to Meghan Zoto, Flavius Mihaies, Baur Safi and Nicole Eickhoff for their input and feedback.
+
+Happy data exploration & storytelling…
  
