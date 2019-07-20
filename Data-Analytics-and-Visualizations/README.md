@@ -1,6 +1,6 @@
 # Data Analytics and Visualizations - A personal journey  
 
-A companion repository for my Medium article avaialble at: https://medium.com/datajournos/data-analytics-and-visualizations-a-personal-journey-b1a1318e24db
+A companion repository for my Medium article avaialble at: https://medium.com/@georgezoto/data-analytics-and-visualizations-a-personal-journey-b1a1318e24db
 
 ![alt text](images/Data-Analytics-and-Visualizations.jpg)
 
